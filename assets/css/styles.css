@@ -1,0 +1,158 @@
+.container{
+    width: 100%;
+    height: 900px;
+    background-color: white;
+    
+}
+.box-1{
+    width: 100%;
+    height: 50px;
+background-color: white;
+}
+img{
+margin-left: 600px;
+font-size: 10px;
+}
+.box-2{
+    display: flex;
+    position: relative;
+    left: 27px;
+    top: 11px;
+    width: 27px;
+    height: 27px;
+    
+}
+.box-3{
+    width: 400px;
+    height: 700px;
+    background-color:white;
+    
+   position: relative;
+    left: 320px;
+    top: 78px;
+}
+.box-31 {
+    font-size: 33px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    margin-left: 11px;
+}
+.box-32{
+    background-color:white;
+    width: 100%;
+    height: 100px;
+}
+
+.input1{
+    height: 50px;
+    width: 88%;
+    margin-top: 29px;
+    margin-left: 6px;
+    font-size: 15px;
+}
+.box-4{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+}
+.box-41{
+    background-color:white;
+    width: 100%;
+    height: 30px;
+    margin-left: 6px;
+    margin-top: 17px;
+}
+.box-42{
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+.box-43{
+    width: 100%;
+    margin-top: 92px;
+    margin-left: 6px;
+    
+}
+.a1{
+    width: 360px;
+    height: 56px;
+
+
+}
+.box-5{
+    width:300px;
+    height: 300px;
+    background-color: white;
+}
+.box-5{
+    background-color: white;
+    width: 400px;
+    height: 645px;
+    margin-left: 342px;
+    margin-top: 68px;
+    border-radius: 2%;
+    border-style: inherit;
+
+}
+.box-big{
+    display: flex;
+}
+.box-5{
+    width: 400px;
+    height: 643px;
+    background-color: white;
+    margin-left: 424px;
+    margin-top: -375px;
+}
+.box-51{
+width: 50px;
+height: 50px;
+margin-left: 39px;
+margin-top: 29px;
+
+
+}
+.meet{
+    margin-left: 40px;
+    margin-top: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.noidung{
+    margin-left: 120px;
+    margin-top: -65px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box-6{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 48px;
+    margin-top: 45px;
+}
+.box-7{
+    width: 230px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.check{
+    margin-left: 54px;
+    margin-top: 21px;
+}
+.box-8{
+    background-color: rgb(23, 72, 231);
+    width: 110px;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: 8px;
+    border-radius: 10%;
+}
+.box-9{
+    margin-left: 25px;
+    top: 8px;
+    color: white;
+    position: relative;
+}
+
